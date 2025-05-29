@@ -65,10 +65,10 @@ Este repositório contém um projeto completo de Business Intelligence utilizand
 
 ## 🖼️ Prints do Dashboard
 
-> ⚠️ Substitua os links abaixo pelas imagens reais após realizar upload no GitHub ou adicionar via markdown.
+> ⚠️  imagens reais.
 
-![Dashboard Geral](coloque-o-link-ou-path-da-imagem-aqui)
-![Indicadores Financeiros](coloque-o-link-ou-path-da-imagem-aqui)
+![Dashboard Geral](Xperiun.png)
+
 
 ---
 
@@ -93,7 +93,6 @@ Este projeto demonstra de forma prática como é possível transformar dados bru
 Estudante de Empreendedorismo e Startups  
 🔗 [LinkedIn](https://www.linkedin.com/in/juan-mendes-739084273)
 
-## Print do Dashboard
-![Exemplo1](Xperiun.png)
+
 ---
 
