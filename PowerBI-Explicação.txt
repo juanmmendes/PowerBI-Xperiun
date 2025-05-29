@@ -1,0 +1,93 @@
+
+---
+
+# 💡 Por que Trabalhar com Análise de Dados?
+
+### 🧠 Faça sua hora valer mais!
+
+A análise de dados é a habilidade que transforma profissionais comuns em tomadores de decisão estratégicos. Ao dominar dados, você **aumenta seu valor no mercado** e **toma decisões mais rápidas e acertadas**.
+
+---
+
+## 🎯 O Poder da Tomada de Decisão
+
+* **Como saber se você está indo bem?**
+
+  * Acompanhando **indicadores de desempenho (KPIs)**.
+  * Verificando se está **batendo metas**, analisando o **fluxo de caixa** e o **resultado financeiro**.
+  * Tudo isso **baseado em dados reais**, não em achismos.
+
+---
+
+## ⚙️ Business Intelligence na Prática
+
+* **Coleta e transformação de dados**: quanto mais valor e agilidade na análise, melhor a performance da empresa.
+* **Dashboards interativos e automatizados**: ferramentas como o Power BI trazem clareza e insights rápidos.
+* Demonstre sua **capacidade analítica e raciocínio lógico** com decisões baseadas em evidências.
+
+---
+
+# 🧱 Os 5 Pilares para Criar um Dashboard Poderoso
+
+### 1. 📥 Extração de Dados
+
+* **Onde estão os dados?** ERPs, planilhas, bancos de dados, APIs, etc.
+* O **Power BI não insere dados**, ele apenas **lê dados de fontes conectadas**.
+* Explore a etapa de **"Transformar Dados"** para visualizar e navegar nas alterações feitas.
+
+---
+
+### 2. 🔧 Transformação dos Dados (Power Query)
+
+* **Limpeza e estruturação**: substituir valores, corrigir erros, eliminar inconsistências.
+* **Unificação de tabelas**: combine colunas (ex: nome + sobrenome), formate datas (dia/mês/ano).
+* **Definição do tipo de dado**: evite "ABC123" (tipo indefinido) – use **"Detectar Tipo de Dados"**.
+* **Criação de colunas calculadas**: ex: `Receita = Valor * Quantidade`.
+* **Referência cruzada** com tabelas auxiliares (ex: tipo de produtos).
+* Finalize com **"Fechar e Aplicar"**.
+
+---
+
+### 3. 🔗 Modelagem dos Dados
+
+* Relacione tabelas por chaves (ex: `ProdutoID`, `ClienteID`).
+* Utilize **medidas DAX** para cálculos dinâmicos, como:
+
+  ```DAX
+  Custo Total = SUMX(Vendas, Vendas[Quantidade] * RELATED(Produtos[CustoUnitario]))
+  ```
+* Modelagem correta evita erros e **melhora a performance do relatório**.
+
+---
+
+### 4. 📊 Cálculos e Indicadores (DAX)
+
+* Use a **linguagem DAX** para criar:
+
+  * Custos, Receitas, Lucros, Margens
+  * Indicadores por período, produto ou canal
+* Funções úteis:
+
+  * `RELATED()` – busca dados em tabelas relacionadas
+  * `CALCULATE()`, `SUMX()`, `FILTER()`, entre outras
+* Selecione o **melhor visual para cada indicador**
+
+---
+
+### 5. 🖼️ Visualização Estratégica
+
+* Construa **painéis úteis, intuitivos e bonitos**.
+* Use gráficos adequados (barras, pizza, linha, área) com design limpo.
+* Configure eixos corretamente (ex: eixo Y começando do zero).
+* Utilize **filtros interativos (CTRL + clique)** para insights mais profundos.
+
+---
+
+## 🚀 Conclusão: Dashboards Que Fazem a Diferença
+
+Dashboards não são só bonitos — eles devem **ajudar a empresa a crescer**. E quando a empresa cresce com base nos dados que você analisou, **o profissional cresce junto**.
+
+**📈 Dados são o novo petróleo. Quem sabe refinar, se destaca.**
+
+---
+
